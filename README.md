@@ -1,2 +1,2 @@
 # fedesoft
-Repositorios proyectos curso Fullsatck
+Repositorios proyectos curso Fullstack
